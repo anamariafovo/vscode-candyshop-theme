@@ -2,6 +2,9 @@
 
 A VS Code theme inspired by jellybeans — vivid, playful colors with dark and light variants.
 
+
+<img src="jellybean-dark.png" width="49%" />&nbsp;<img src="jellybean-light.png" width="49%" />
+
 ## Themes
 
 **Jellybean Dark** — deep dark background with vivid candy accent colors  
