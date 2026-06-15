@@ -4,5 +4,5 @@
 
 ### Added
 - Initial release
-- Candyshop Dark theme — deep dark background with sweet, bold candy colors
-- Candyshop Light theme — soft lavender whites with vibrant candy accents
+- Jellybean Dark theme — deep dark background with sweet, bold candy colors
+- Jellybean Light theme — soft lavender whites with vibrant candy accents

@@ -1,15 +1,15 @@
-# Candyshop Theme
+# Jellybean Theme
 
-A VS Code theme inspired by a candy shop — sweet pastels, bold pops of color, and sugary brights. Available in dark and light variants.
+A VS Code theme inspired by jellybeans — vivid, playful colors with dark and light variants.
 
 ## Themes
 
-**Candyshop Dark** — deep dark background with vivid candy accent colors  
-**Candyshop Light** — soft lavender whites with vibrant, saturated accents
+**Jellybean Dark** — deep dark background with vivid candy accent colors  
+**Jellybean Light** — soft lavender whites with vibrant, saturated accents
 
 ## Color Palette
 
-### Candyshop Dark
+### Jellybean Dark
 
 | Role | Color |
 |---|---|
@@ -24,7 +24,7 @@ A VS Code theme inspired by a candy shop — sweet pastels, bold pops of color, 
 | Pink | `#EC4899` |
 | Red | `#EF4444` |
 
-### Candyshop Light
+### Jellybean Light
 
 | Role | Color |
 |---|---|
@@ -43,10 +43,10 @@ A VS Code theme inspired by a candy shop — sweet pastels, bold pops of color, 
 
 1. Open VS Code
 2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for **Candyshop Theme**
+3. Search for **Jellybean Theme**
 4. Click **Install**
-5. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → select **Candyshop Dark** or **Candyshop Light**
+5. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → select **Jellybean Dark** or **Jellybean Light**
 
 ## Repository
 
-[github.com/anamariafovo/vscode-candyshop-theme](https://github.com/anamariafovo/vscode-candyshop-theme)
+[github.com/anamariafovo/vscode-jellybean-theme](https://github.com/anamariafovo/vscode-jellybean-theme)

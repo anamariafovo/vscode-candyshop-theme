@@ -1,14 +1,14 @@
 {
-  "name": "candyshop-theme",
-  "displayName": "Candyshop Theme",
-  "description": "A VS Code theme inspired by a candy shop — sweet pastels, bold pops of color, and sugary brights.",
+  "name": "jellybean-theme",
+  "displayName": "Jellybean Theme",
+  "description": "A VS Code theme inspired by jellybeans — vivid, playful colors with dark and light variants.",
   "version": "0.1.0",
   "publisher": "neonmoon",
-  "icon": "candyshop-theme.png",
+  "icon": "jellybean-theme.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anamariafovo/vscode-candyshop-theme"
+    "url": "https://github.com/anamariafovo/vscode-jellybean-theme"
   },
   "keywords": [
     "theme",
@@ -33,14 +33,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Candyshop Dark",
+        "label": "Jellybean Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/candyshop-dark-color-theme.json"
+        "path": "./themes/jellybean-dark-color-theme.json"
       },
       {
-        "label": "Candyshop Light",
+        "label": "Jellybean Light",
         "uiTheme": "vs",
-        "path": "./themes/candyshop-light-color-theme.json"
+        "path": "./themes/jellybean-light-color-theme.json"
       }
     ]
   }
