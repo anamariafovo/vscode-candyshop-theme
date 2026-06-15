@@ -4,6 +4,7 @@
   "description": "A VS Code theme inspired by a candy shop — sweet pastels, bold pops of color, and sugary brights.",
   "version": "0.1.0",
   "publisher": "neonmoon",
+  "icon": "candyshop-theme.png",
   "license": "MIT",
   "repository": {
     "type": "git",
