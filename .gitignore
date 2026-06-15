@@ -1,2 +1,5 @@
 .claude/
 theme-preview.ts
+*.vsix
+node_modules/
+.DS_Store
