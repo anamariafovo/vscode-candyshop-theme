@@ -1,0 +1,28 @@
+{
+  "name": "candyshop-theme",
+  "displayName": "Candyshop Theme",
+  "description": "A VS Code theme inspired by a candy shop — sweet pastels, bold pops of color, and sugary brights.",
+  "version": "0.1.0",
+  "publisher": "neonmoon",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Candyshop Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/candyshop-dark-color-theme.json"
+      },
+      {
+        "label": "Candyshop Light",
+        "uiTheme": "vs",
+        "path": "./themes/candyshop-light-color-theme.json"
+      }
+    ]
+  }
+}
